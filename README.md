@@ -20,3 +20,13 @@ The getProductTransitStops function allows users to view the transit stops for a
 The getProductInformation function provides detailed information about a product, including its current status and authenticity.
 
 Please note that this is a simplified version, and a real-world Supply Chain Management system would require additional features and security considerations. For example, you may want to consider adding access control mechanisms to limit certain functions to specific roles or parties. Additionally, you might include more advanced tracking mechanisms and interfaces to integrate with external systems. Always conduct thorough testing and ensure security before deploying smart contracts in a production environment.
+
+Interact with the Smart Contract:
+
+Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the "Deployed Contracts" section to see the deployed contract. You can expand the contract and use the available functions to register products, update their status, track transit, verify authenticity, and query product information.
+Customize Access Control:
+
+Depending on your requirements, you may want to customize access control mechanisms to restrict certain functions to specific roles or parties. For example, you might add a modifier to limit the registerProduct function to authorized producers.
+Test the Smart Contract:
+
+Thoroughly test the smart contract to ensure that supply chain tracking and verification processes are accurate and transparent. In Remix, you can use the "Solidity Unit Testing" tab to write and run tests. 
