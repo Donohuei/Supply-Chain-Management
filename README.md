@@ -22,7 +22,7 @@ The getProductInformation function provides detailed information about a product
 
 Please note that this is a simplified version, and a real-world Supply Chain Management system would require additional features and security considerations. For example, you may want to consider adding access control mechanisms to limit certain functions to specific roles or parties. Additionally, you might include more advanced tracking mechanisms and interfaces to integrate with external systems. Always conduct thorough testing and ensure security before deploying smart contracts in a production environment.
 
-Interact with the Smart Contract:
+__Interact with the Smart Contract:__
 
 Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the "Deployed Contracts" section to see the deployed contract. You can expand the contract and use the available functions to register products, update their status, track transit, verify authenticity, and query product information.
 Customize Access Control:
