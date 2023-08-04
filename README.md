@@ -12,7 +12,7 @@ Users with the role of "producer" can register new products on the blockchain us
 
 Users can update the status of a product using the updateProductStatus function, allowing for tracking the product's movement along the supply chain.
 
-The contract keeps track of the transit stops for each product using the productTransitStops mapping.
+The contract keeps track of the transit stops for each product using the productTransitStops mapping:
 
 Users can verify the authenticity of a product using the verifyProductAuthenticity function.
 
