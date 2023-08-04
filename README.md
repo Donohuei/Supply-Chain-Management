@@ -28,6 +28,6 @@ Once the contract is deployed, you can interact with it using the provided funct
 Customize Access Control:
 
 Depending on your requirements, you may want to customize access control mechanisms to restrict certain functions to specific roles or parties. For example, you might add a modifier to limit the registerProduct function to authorized producers.
-Test the Smart Contract:
+__Test the Smart Contract:__
 
 Thoroughly test the smart contract to ensure that supply chain tracking and verification processes are accurate and transparent. In Remix, you can use the "Solidity Unit Testing" tab to write and run tests. 
