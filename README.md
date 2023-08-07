@@ -8,7 +8,7 @@ __Explanation:__
 - The ProductStatus enum tracks the different stages of the product's lifecycle (Created, InTransit, Delivered).
 - Users with the role of "producer" can register new products on the blockchain using the registerProduct function.
 - Users can update the status of a product using the updateProductStatus function, allowing for tracking the product's movement along the supply chain.
-- The contract keeps track of the transit stops for each product using the productTransitStops mapping:
+- The contract keeps track of the transit stops for each product using the productTransitStops mapping.
 - Users can verify the authenticity of a product using the verifyProductAuthenticity function.
 - The getProductTransitStops function allows users to view the transit stops for a specific product.
 - The getProductInformation function provides detailed information about a product, including its current status and authenticity.
