@@ -19,7 +19,7 @@ __Interact with the Smart Contract:__
 
 Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the "Deployed Contracts" section to see the deployed contract. You can expand the contract and use the available functions to register products, update their status, track transit, verify authenticity, and query product information.
 
-Customize Access Control:
+__Customize Access Control:__
 
 Depending on your requirements, you may want to customize access control mechanisms to restrict certain functions to specific roles or parties. For example, you might add a modifier to limit the registerProduct function to authorized producers.
 __Test the Smart Contract:__
