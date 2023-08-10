@@ -17,7 +17,8 @@ Please note that this is a simplified version, and a real-world Supply Chain Man
 
 __Interact with the Smart Contract:__
 
-Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the "Deployed Contracts" section to see the deployed contract. You can expand the contract and use the available functions to register products, update their status, track transit, verify authenticity, and query product information.
+- Once the contract is deployed, you can interact with it using the provided functions. In Remix, go to the ```Deployed Contracts``` section to see the deployed contract. You can expand the contract and use the available functions to register products, update their status, track transit, verify authenticity, and query product information.
+  
 
 __Customize Access Control:__
 
