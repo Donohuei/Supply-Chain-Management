@@ -13,7 +13,7 @@ __Explanation:__
 - The getProductTransitStops function allows users to view the transit stops for a specific product.
 - The getProductInformation function provides detailed information about a product, including its current status and authenticity.
 
-Please note that this is a simplified version, and a real-world Supply Chain Management system would require additional features and security considerations. For example, you may want to consider adding access control mechanisms to limit certain functions to specific roles or parties. Additionally, you might include more advanced tracking mechanisms and interfaces to integrate with external systems. Always conduct thorough testing and ensure security before deploying smart contracts in a production environment.
+__Note:__ This is a simplified version, and a real-world Supply Chain Management system would require additional features and security considerations. For example, you may want to consider adding access control mechanisms to limit certain functions to specific roles or parties. Additionally, you might include more advanced tracking mechanisms and interfaces to integrate with external systems. Always conduct thorough testing and ensure security before deploying smart contracts in a production environment.
 
 __Interact with the Smart Contract:__
 
